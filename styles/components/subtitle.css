@@ -4,10 +4,3 @@
     text-shadow: 4px 4px 0 var(--shadow-color);
     color: var(--subtitle-color);
 }
-
-.subtitle.-second {
-    color: var(--subtitle-color);
-    text-shadow: none;
-    text-align: center;
-    padding-top: 40px;
-}
